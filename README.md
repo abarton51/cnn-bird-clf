@@ -24,4 +24,4 @@ The dataset is taken from https://www.kaggle.com/datasets/gpiosenka/100-bird-spe
   Test - 500
 
 ## The Task
-The task is a classic multiclass classification problem. The target variable is assumed to be a deterministic class probability vector given an input vector corresonding to the image tensor.
+The task is a classic multiclass classification problem. The target variable is a deterministic class probability vector corresponding to the set of classes (bird names) given an input vector corresonding to the image tensor.
