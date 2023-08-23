@@ -1,8 +1,6 @@
 #### About this Repository:
  This repository contains my contributions towards a project completed on studying neural networks as a method of statistical learning for MATH 4210 Mathematics of Data Science at Georgia Tech over the Spring of 2023. My work dove specifically into Convolutional Neural Networks implemented on a multiclass classification task. Everything posted here is of my own work and all resources, citations, and other various sources are included in the works cited file, presentation slides, and the unfinished LaTeX compiled PDF file titled "math4803neuralnetworks".
 
-  Disclaimer: This was my first time working with neural networks, TensorFlow, Keras, and Kaggle, so the code is not great.
-
 # Bird Image Classification Task with Convolutional Neural Networks
 
 ## The Dataset:
