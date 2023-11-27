@@ -1,4 +1,4 @@
-#### About this Repository:
+### About this Repository:
  This repository contains my contributions towards a project completed on studying neural networks as a method of statistical learning for MATH 4210 Mathematics of Data Science at Georgia Tech over the Spring of 2023. My work dove specifically into Convolutional Neural Networks implemented on a multiclass classification task. Everything posted here is of my own work and all resources, citations, and other various sources are included in the works cited file, presentation slides, and the semi-finished LaTeX compiled PDF file titled "ce_for_clf".
 
  **[Cross Entropy for Classification](https://github.com/abarton51/cnn-bird-clf/blob/main/notes/ce_for_clf.pdf)**: I wrote a LaTeX document that goes in-depth from start to finish for everything one would need to know about using cross entropy as a loss function for a classication task. I provide intuitive explanations and mathematical proofs all the way from what loss functions are and what entropy is to deriving cross entropy and some of its notable properties.
