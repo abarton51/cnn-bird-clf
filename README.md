@@ -3,7 +3,7 @@
 
  **Cross Entropy for Classification**: I wrote a LaTeX document that goes in-depth from start to finish for everything one would need to know about using cross entropy as a loss function for a classication task. I provide intuitive explanations and mathematical proofs all the way from what loss functions are and what entropy is to deriving cross entropy and some of its notable properties.
 
- **Presentation Slides**: The bulk of my work is best summarized in the presentation slides PDF.
+ **[Presentation Slides](https://github.com/abarton51/cnn-bird-clf/blob/main/presentation_slides_bird_image_clf.pdf)**: The bulk of my work is best summarized in the presentation slides PDF.
 
 # Bird Image Classification Task with Convolutional Neural Networks
 
